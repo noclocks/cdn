@@ -11,3 +11,5 @@ For example, to utilize the [`md-page.min.js`](scripts/js/md-page.min.js) JavaSc
 ```html
 <script src="https://rawcdn.githack.com/noclocks/cdn/main/scripts/js/md-page.min.js"></script><noscript>
 ```
+
+where the script is being pulled directly from the URL <https://rawcdn.githack.com/noclocks/cdn/main/scripts/js/md-page.min.js>.
