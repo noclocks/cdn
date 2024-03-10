@@ -4,7 +4,8 @@
 *          text=auto
 
 # linguist
-*.html     linguist-prose
+# ignore html
+*.html     linguist-vendored
 
 #
 # The above will handle all files NOT found below
