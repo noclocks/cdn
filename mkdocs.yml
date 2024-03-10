@@ -56,9 +56,7 @@ plugins:
   - git-committers:
       repository: noclocks/cdn
       branch: main
-  - git-authors:
-      repository: noclocks/cdn
-      branch: main
+  - git-authors
 
 extra:
   generator: false
