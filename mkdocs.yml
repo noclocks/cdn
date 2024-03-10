@@ -1,0 +1,89 @@
+site_name: No Clocks CDN
+site_description: No Clocks Content Delivery Network (CDN)
+site_author: No Clocks, LLC
+site_url: https://docs.noclocks.dev/cdn
+
+repo_url: https://github.com/noclocks/cdn
+repo_name: noclocks/cdn
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.sections
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to Light Mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: white
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to Dark Mode
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: noclocks/cdn
+      branch: main
+  - git-authors:
+      repository: noclocks/cdn
+      branch: main
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/noclocks
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/noclocksdev
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/noclocks
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/noclocks
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/noclocksdev
+    - icon: fontawesome/brands/slack
+      link: https://noclocks.slack.com
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/noclocksdev
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/noclocks
+
+copyright: Copyright &copy; 2024 No Clocks, LLC
+
+# nav:
+#   - Home: index.md
+#   - Usage: usage.md
+#   - FAQ: faq.md
+#   - Contact: contact.md
