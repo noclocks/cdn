@@ -3,6 +3,8 @@
 > [!NOTE]
 > Static Asset Content Delivery Network Setup for No Clocks, LLC.
 
+[![Publish](https://github.com/noclocks/cdn/actions/workflows/publish.yml/badge.svg)](https://github.com/noclocks/cdn/actions/workflows/publish.yml)
+
 ## Assets
 
 - [brand](./brand/): Brand Kits
@@ -28,7 +30,7 @@
   - Root URL: <https://raw.githack.com/noclocks/cdn>
     - **Development:** <https://raw.githack.com/noclocks/cdn/main/{path/to/file}>
     - **Production:** <https://raw.githack.com/noclocks/cdn/{tag}/{file}>
- 
+
 ## Example
 
 For example, to utilize the [`md-page.min.js`](scripts/js/md-page.min.js) JavaScript script in an HTML file:
