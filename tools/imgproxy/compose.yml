@@ -1,0 +1,15 @@
+services:
+  imgproxy:
+    image: darthsim/imgproxy
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "imgproxy", "health"]
+      interval: "10s"
+      timeout: "10s"
+      retries: 3
+    env_file:
+      - .env
+    volumes:
+      - ./../images:/images
+    

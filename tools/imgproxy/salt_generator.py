@@ -4,6 +4,11 @@ import hashlib
 import base64
 
 
+key = 'key'
+salt = os.urandom(32)
+hashed_key = hashlib.pbkdf2_hmac("sha256", password.encode("utf-8"), salt, 100000)
+
+
 def generate_salt(size: int = 16) -> str:
     salt = os.urandom(size)
     return str(base64.b64encode(salt))
