@@ -13,6 +13,7 @@
 
 ## Features
 
+- Add frontend techstack SVG icons ([1b06f76](https://github.com/noclocks/cdn/commit/1b06f76cee748d24ab0b1ccd1b6c214bc228e96d))  - (Jimmy Briggs)
 - Create changelog.yml GHA ([d1b374e](https://github.com/noclocks/cdn/commit/d1b374e222e2c7dbaebf12df3b962f9b9af23696))  - (Jimmy Briggs)
 - Add vcard ([19dd7de](https://github.com/noclocks/cdn/commit/19dd7dea057e8c25d4fcdfe2f9e49c1187378689))  - (Jimmy Briggs)
 - Imgproxy ([7473d10](https://github.com/noclocks/cdn/commit/7473d105e4e82fa66a9ae9d6c8ff31c38d34e658))  - (Jimmy Briggs)
