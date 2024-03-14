@@ -8,6 +8,7 @@
 
 ## Documentation
 
+- Add badges to README ([e61af45](https://github.com/noclocks/cdn/commit/e61af45ce4fc7beb4a5401a300dd539ff2eaacb4))  - (Jimmy Briggs)
 - Create CHANGELOG.md ([064518d](https://github.com/noclocks/cdn/commit/064518dbb39d42257424d6e98f31f84bf2c3e61d))  - (Jimmy Briggs)
 - Enhance README ([029236e](https://github.com/noclocks/cdn/commit/029236e32a555d1b6a77cc2ca3a98a5203addf52))  - (Jimmy Briggs)
 
