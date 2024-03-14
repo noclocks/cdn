@@ -3,7 +3,13 @@
 > [!NOTE]
 > Static Asset Content Delivery Network Setup for No Clocks, LLC.
 
+<!-- BADGES:Start -->
+
+[![Automate Changelog](https://github.com/noclocks/cdn/actions/workflows/changelog.yml/badge.svg)](https://github.com/noclocks/cdn/actions/workflows/changelog.yml)
+
 [![Publish](https://github.com/noclocks/cdn/actions/workflows/publish.yml/badge.svg)](https://github.com/noclocks/cdn/actions/workflows/publish.yml)
+
+<!-- BADGES:End -->
 
 ## Assets
 
