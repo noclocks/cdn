@@ -20,6 +20,7 @@
 - Add new logos ([036708c](https://github.com/noclocks/cdn/commit/036708c39353337adb3c9e0db3ef8be44238ae41))  - (Jimmy Briggs)
 - Add featured images ([201e08c](https://github.com/noclocks/cdn/commit/201e08ca352ec2af7daa8d08a307c8c6ebedc78d))  - (Jimmy Briggs)
 - Add client images ([06f27d8](https://github.com/noclocks/cdn/commit/06f27d8e5c9fb396ad4c0cc59e6a7a296aedc4dc))  - (Jimmy Briggs)
+- Add 2:1 ratio rectangular logo ([4415de5](https://github.com/noclocks/cdn/commit/4415de5b2dbdf15743858d46e9f4e9cd48c33844))  - (Jimmy Briggs)
 - Add frontend techstack SVG icons ([1b06f76](https://github.com/noclocks/cdn/commit/1b06f76cee748d24ab0b1ccd1b6c214bc228e96d))  - (Jimmy Briggs)
 - Create changelog.yml GHA ([d1b374e](https://github.com/noclocks/cdn/commit/d1b374e222e2c7dbaebf12df3b962f9b9af23696))  - (Jimmy Briggs)
 - Add vcard ([19dd7de](https://github.com/noclocks/cdn/commit/19dd7dea057e8c25d4fcdfe2f9e49c1187378689))  - (Jimmy Briggs)
