@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## Bug Fixes
+
+- Fix changelog.yml to only commit/push on push ([90f42a3](https://github.com/noclocks/cdn/commit/90f42a32df1eddd176dcb63ce2140065656f814a))  - (Jimmy Briggs)
+
 ## Documentation
 
 - Add badges to README ([e61af45](https://github.com/noclocks/cdn/commit/e61af45ce4fc7beb4a5401a300dd539ff2eaacb4))  - (Jimmy Briggs)
