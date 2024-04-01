@@ -18,6 +18,7 @@
 
 ## Features
 
+- Add jimmy signature images ([27e41bd](https://github.com/noclocks/cdn/commit/27e41bdebb5ee47fd062cffc56799c61163b0cfa))  - (Jimmy Briggs)
 - Add rectangular logo ([dff9848](https://github.com/noclocks/cdn/commit/dff984860fb6e5fa36aed4de061629242484f6d8))  - (Jimmy Briggs)
 - Add png2svg tool ([2d2e8b4](https://github.com/noclocks/cdn/commit/2d2e8b4454b4144644054cfcbc36728b1dafe4d1))  - (Jimmy Briggs)
 - Add new logos and resizings ([b0e053d](https://github.com/noclocks/cdn/commit/b0e053d2a6dddf404621fa137f28e2aa5667debb))  - (Jimmy Briggs)
